@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "AI-NA, Artificial Intelligence and Navigating Automation with Aina :) "
+title                    : "AI-NA"
 title_separator          : "-"
 name                     : &name "Aina Tersol Montserrat"
 description              : &description ""
