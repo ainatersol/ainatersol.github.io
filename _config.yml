@@ -8,13 +8,21 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "AI-NA, Artificial Intelligence and Navigating Automation with Aina :) "
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Aina Tersol Montserrat"
+description              : &description "My name is Aina Tersol, I am a Machine Learning Datascientist. 
+                                        My career began in the healthcare-vision space in 2018, and I have since expanded into multimodal machine-learning applications within healthcare. I'm passionate about developing AI interpretability in computer vision models and LLMs. My experience spans various roles in dynamic startup environments, where I emphasize collaboration, rigor, and innovation in healthcare technology.
+
+I hold a Master's from Johns Hopkins University, specializing in X-Ray Physics and Machine Learning.
+
+🌟 **Let's Connect:**
+  - If you're passionate about using technology to transform healthcare and improve lives, I'd be thrilled to connect and explore opportunities for collaboration. Together, we can make a difference "
+
+
+url                      : https://ainatersol.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ainatersol/ainatersol.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
