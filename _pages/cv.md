@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* MSE, Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA, 2020 - 2021
-* BSC, Biomedical Engineering, Universitat Politècnica de Catalunya, Barcelona, Spain, 2016 - 2020
+* MSE, Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA
+* BSC, Biomedical Engineering, Universitat Politècnica de Catalunya, Barcelona, Spain
 
 Work Experience
 ======
