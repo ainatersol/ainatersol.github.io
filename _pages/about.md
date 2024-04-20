@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "\nNAAI, a space for Artificial Intelligence and how to Navigate this time of Automation with Aina :) "
+title: "\nThis is Aina, welcome into my life! :) "
 author_profile: true
 redirect_from: 
   - /about/
