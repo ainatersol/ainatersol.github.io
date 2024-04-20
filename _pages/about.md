@@ -23,7 +23,7 @@ Feel free to explore my projects, publications, and the work experiences that ha
 
 
 ## Personal Life
-In my personal life, I share a deep bond with my partner, Alexander, who is also a passionate Machine Learning Scientist. We both have a strong focus on research, but while I strive to make machine learning accessible, Alexander delves deep into the theoretical aspects of AI. This synergy not only strengthens our relationship but also enhances our professional endeavors.
+In my personal life, I share a deep bond with my partner, Alexander, who is also a passionate Machine Learning Scientist. We both have a strong focus on research, but while I strive to make machine learning accessible, Alexander enjoys going deep into the theoretical aspects of AI. This synergy not only strengthens our relationship but also enhances our professional endeavors.
 
 Together, we actively participate in the local machine learning community, contributing to discussions, attending meetups, and collaborating on research projects. Our shared passion for AI and machine learning continually inspires us to push the boundaries of what we can achieve both individually and as a team.
 
