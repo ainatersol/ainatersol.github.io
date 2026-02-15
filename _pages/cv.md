@@ -67,7 +67,7 @@ Service and Leadership
 
 Projects and Awards
 ======
-* Best Poster Award at NEURIPS, January 2024
+* Best Poster Award at LatinX in AI (LXAI) at NEURIPS, January 2024
 * 1st Place Vesuvius Challenge – Ink Detection Kaggle Competition, March 2023 – June 2023
 * 1st place in the Machine Learning Medical Image Analysis Competition, Jan 2021 – June 2021
 * Best Academic Record Award, Summa Cum Laude, July 2020
